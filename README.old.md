@@ -1,1 +1,0 @@
-# Salsa SimpliciDee Frontend
