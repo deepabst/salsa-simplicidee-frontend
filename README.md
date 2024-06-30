@@ -1,3 +1,5 @@
+![Salsasimplicideelogo](assets/salsaSimplicideelogo.png)
+
 # SalsaSimpliciDee Frontend
 
 SalsaSimpliciDee is a web application designed to help users visualize, learn, and combine salsa dance steps through 3D animations. This repository contains the frontend code built with React.
